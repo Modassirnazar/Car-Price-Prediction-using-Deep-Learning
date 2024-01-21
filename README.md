@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the code and resources for a machine learning project that predicts the selling price of cars based on various features. The project uses regression algorithms to analyze a dataset from Kaggle.
+This repository hosts a machine-learning project focused on predicting the selling prices of cars. Leveraging regression algorithms, the project analyzes a dataset sourced from Kaggle, encompassing key features such as car specifications, fuel type, and transmission details. The implemented models include Linear Regression, Decision Tree Regressor, Random Forest Regressor, XGBoost Regressor, and MLP Regressor. Evaluation metrics, including Mean Squared Error (MSE) and R-squared (R²) scores, provide insights into the performance of each model. Dive into the Jupyter Notebook to explore the code, train the models, and understand the predictive capabilities for car pricing. This repository contains the code and resources for a machine-learning project that predicts the selling price of cars based on various features. The project uses regression algorithms to analyze a dataset from Kaggle.
 
 ## Dataset
 
