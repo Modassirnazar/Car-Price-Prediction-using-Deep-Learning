@@ -1,6 +1,6 @@
 # Car Price Prediction
 
-![Car Price Prediction](insert_image_url_here)
+![Car Price Prediction](car_1.jpeg)
 
 ## Overview
 
@@ -20,4 +20,4 @@ The dataset used in this project is sourced from Kaggle and includes the followi
 - Transmission
 - Owner
 
-
+The Dataset can be viewed [here](https://github.com/Modassirnazar/OIBSIP_3/blob/f98d2c52a6530841ff275efd2fcb7c3013111daa/car%20data.csv)
