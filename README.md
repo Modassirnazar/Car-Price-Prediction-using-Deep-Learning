@@ -1,6 +1,6 @@
 # Car Price Prediction
 
-![Car Price Prediction](car_1.jpeg)
+![Car Price Prediction](car_2.webp)
 
 ## Overview
 
